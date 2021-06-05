@@ -23,4 +23,4 @@ Download and unzip the directory, open MATLAB, and then navigate to wherever you
 Runtime for entire script is < 10 s.
 
 If you use this code, please cite:
-Esfahlani, F. Z., Faskowitz, J., Slack, J., Misic, B., & Betzel, R. (2021). Local structure-function relationships in human brain networks across the human lifespan. bioRxiv.[(link to paper)](https://www.biorxiv.org/content/10.1101/2021.05.23.445128v1.abstract)
+Esfahlani, F. Z., Faskowitz, J., Slack, J., Misic, B., & Betzel, R. (2021). Local structure-function relationships in human brain networks across the human lifespan. bioRxiv. [(link to paper)](https://www.biorxiv.org/content/10.1101/2021.05.23.445128v1.abstract)
